@@ -1,6 +1,6 @@
 {
   "name": "delxo_clickup_apis",
-  "version": "1.5.9",
+  "version": "1.5.10",
   "description": "this package is designed to create correct format for using clickup createtask api as per the custom fields described by team carselona",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

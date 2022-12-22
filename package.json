@@ -1,7 +1,7 @@
 {
   "name": "delxo_clickup_apis",
-  "version": "1.5.10",
-  "description": "this package is designed to create correct format for using clickup createtask api as per the custom fields described by team carselona",
+  "version": "1.5.11",
+  "description": "This package is created for use Clickup Project Management Tool APIs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,19 +10,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Paritosh1999/package-clickup-carselona-welcome-call-format.git"
+    "url": "git+https://github.com/carselona/clickup_npm_package.git"
   },
   "keywords": [
-    "welcome",
-    "call",
-    "format"
+    "delxo",
+    "carselona",
+    "clickup",
+    "clickupapi",
+    "delxo technologies"
   ],
-  "author": "Team carselona",
+  "author": "Delxo Technologies Private Limited",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Paritosh1999/package-clickup-carselona-welcome-call-format/issues"
+    "url": "https://github.com/carselona/clickup_npm_package/issues"
   },
-  "homepage": "https://github.com/Paritosh1999/package-clickup-carselona-welcome-call-format#readme",
+  "homepage": "https://github.com/carselona/clickup_npm_package#readme",
   "devDependencies": {
     "typescript": "^4.9.3"
   },

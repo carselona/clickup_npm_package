@@ -1,6 +1,6 @@
 {
-  "name": "delxo_clickup_apis",
-  "version": "1.5.11",
+  "name": "clickup_api_delxo",
+  "version": "1.0.0",
   "description": "This package is created for use Clickup Project Management Tool APIs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
